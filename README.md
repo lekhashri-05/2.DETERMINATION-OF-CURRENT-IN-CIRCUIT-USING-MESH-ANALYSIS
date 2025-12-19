@@ -22,6 +22,116 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+
+
+
+
+
+
+
+
+
+<img width="263" height="186" alt="image" src="https://github.com/user-attachments/assets/4de9f0a9-13d7-438a-ae48-41ce499f8a16" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**TABULAR COLOUMN**
+
+
+
+
+
+
+<img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/13f76cc5-41a7-46fd-a115-5932ac1a6406" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**CALCULATION**
+
+
+
+
+
+
+
+
+
+
+<img width="263" height="399" alt="image" src="https://github.com/user-attachments/assets/e71f1d14-9c68-40b8-9975-492e279aa7f8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="277" height="354" alt="image" src="https://github.com/user-attachments/assets/3ed01465-060f-465c-87de-b9f5e2a268d7" />
+
+
+
+
+
+
+
+
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,6 +146,24 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <img width="355" height="195" alt="image" src="https://github.com/user-attachments/assets/c0dc17eb-e2ce-4c24-af0f-388841af1af9" />
+
+   
+   
+   
+   
+   
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
